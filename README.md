@@ -1,7 +1,7 @@
-<h1 align="center">Hi 👋, I'm Lucas Monteiro</h1>
-<h3 align="center">Just a Brazilian Java developer</h3>
+<h1 align="center">Hi 👋, I'm Carlos Fernandes</h1>
+<h3 align="center">Just a Brazilian developer</h3>
 
-<p align="left"> <a href="https://twitter.com/eokasta" target="blank"><img src="https://img.shields.io/twitter/follow/eokasta?logo=twitter&style=for-the-badge" alt="eokasta" /></a> </p>
+<!-- <p align="left"> <a href="https://twitter.com/eokasta" target="blank"><img src="https://img.shields.io/twitter/follow/eokasta?logo=twitter&style=for-the-badge" alt="eokasta" /></a> </p> -->
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
