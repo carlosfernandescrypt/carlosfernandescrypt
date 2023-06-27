@@ -1,11 +1,4 @@
-<h1 align="center">Hi 👋, I'm Carlos Fernandes</h1>
-<h3 align="center">Just a Brazilian developer</h3>
-
-<!-- <p align="left"> <a href="twitter.com" target="blank"><img src="logo" alt="carlosfernandescrypt" /></a> </p> -->
-
-### Blogs posts
-<!-- BLOG-POST-LIST:START -->
-<!-- BLOG-POST-LIST:END -->
+<h1 align="left">Hi 👋</h1>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
