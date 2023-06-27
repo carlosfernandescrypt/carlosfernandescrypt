@@ -23,4 +23,4 @@
 <br></br>
 <br></br>
 <br></br>
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=carlosfernandescrypt&show_icons=true&locale=en&theme=radical" alt="carlosfernandescrypt" /></p>
+<p>&nbsp;<img align="left" src="https://github-readme-stats.vercel.app/api?username=carlosfernandescrypt&show_icons=true&locale=en&theme=radical" alt="carlosfernandescrypt"/></p>
