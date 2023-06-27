@@ -19,8 +19,5 @@
 
 
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=carlosfernandescrypt&show_icons=true&locale=en&layout=compact&theme=radical" alt="carlosfernandescrypt"/></p>
-<br></br>
-<br></br>
-<br></br>
+
 <p>&nbsp;<img align="left" src="https://github-readme-stats.vercel.app/api?username=carlosfernandescrypt&show_icons=true&locale=en&theme=radical" alt="carlosfernandescrypt"/></p>
