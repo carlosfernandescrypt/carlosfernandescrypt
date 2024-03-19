@@ -16,6 +16,3 @@
 <p>&nbsp;<img align="left" src="https://github-readme-stats.vercel.app/api?username=carlosfernandescrypt&show_icons=true&locale=en&theme=radical" alt="carlosfernandescrypt"/></p>
 <p align="center">
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=carlosfernandescrypt&theme=gotham&layout=compact"width="40%"/> 
-</p>
-
