@@ -6,7 +6,7 @@
 
 ###
 
-<p align="left">- 📘 Currently working as a Back-end Software Engineer at @ Sea Solutions.<br>- 💡 My main objective is to deliver value to the product and the business, prioritizing practical and effective solutions, regardless of technical preferences. For every challenge, i believe there is always a solutions - even if i don't know it right away, i know i will find a way.<br>- 🎓 Studyng Computer Science at Catholic University of Brasília.<br>- ✨ Passionate about solving problems and working in team.</p>
+<p align="left">- Currently working as a Back-end Software Engineer at @ Sea Solutions.<br>- My main objective is to deliver value to the product and the business, prioritizing practical and effective solutions, regardless of technical preferences. For every challenge, i believe there is always a solutions - even if i don't know it right away, i know i will find a way.<br>- Studyng Computer Science at Catholic University of Brasília.<br>- Passionate about solving problems and working in team.</p>
 
 ###
 
@@ -56,6 +56,3 @@
 
 ###
 
-<h2 align="left">📫  Contact</h2>
-
-###
